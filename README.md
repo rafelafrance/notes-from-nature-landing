@@ -1,3 +1,5 @@
+# This project is no longer active and has been archived.
+
 # Notes from Nature landing page
 
 Landing page for [Notes from Nature](https://www.notesfromnature.org).
